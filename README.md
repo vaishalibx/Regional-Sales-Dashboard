@@ -20,7 +20,7 @@ analyzing product sales, regional revenue and customer satisfaction for 2024.
 - East region has highest customer satisfaction (3.38)
 
 ## 📂 Dataset
-- [View Raw Data](sales_data.csv)
+- [[View Raw Data](sales_data.csv)](https://docs.google.com/spreadsheets/d/1GhidY8ZmIrqOtolsgMzMQms7sdxXcmHQPyKRrUX9jEc/edit?usp=sharing)
 - Total Records: 100+ sales transactions
 - Time Period: January 2024
 - Fields: Date, Product, Region, Units Sold, Revenue, Customer Satisfaction
