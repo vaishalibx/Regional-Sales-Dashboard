@@ -18,3 +18,9 @@ analyzing product sales, regional revenue and customer satisfaction for 2024.
 - West region has highest revenue ($17.41k)
 - Laptop is the top selling product
 - East region has highest customer satisfaction (3.38)
+
+## 📂 Dataset
+- [View Raw Data](sales_data.csv)
+- Total Records: 100+ sales transactions
+- Time Period: January 2024
+- Fields: Date, Product, Region, Units Sold, Revenue, Customer Satisfaction
