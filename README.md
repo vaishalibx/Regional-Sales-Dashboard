@@ -1,7 +1,7 @@
 # Regional Sales Analysis Dashboard
 
 ## 📊 Project Overview
-An interactive sales dashboard built using Google Looker Studio
+An interactive sales dashboard built using Google Data Studio
 analyzing product sales, regional revenue and customer satisfaction for 2024.
 
 ## 🔗 Live Dashboard
@@ -11,7 +11,7 @@ analyzing product sales, regional revenue and customer satisfaction for 2024.
 ![Dashboard Preview](dashboard.png)
 
 ## 🛠️ Tools Used
-- Google Looker Studio
+- Google Data Studio
 - Google Sheets
 
 ## 📌 Key Insights
